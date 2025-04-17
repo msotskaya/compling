@@ -1,3 +1,6 @@
+This repository contains homework assignments for the course "Computational Linguistics" 
+taught in 2025 in Higher School of Economics (Saint Petersburg). 
+
 task 2 dataset:
 https://huggingface.co/datasets/testingaccountforpersonalgoals/dataset_with_text
 
